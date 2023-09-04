@@ -1,3 +1,4 @@
+alert(' Welcome, let´s start counting')
 let res = document.getElementById('res')
 
 let atualValue = Number(res.value)
