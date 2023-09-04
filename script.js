@@ -11,5 +11,5 @@ function addOne(){
 
 function rmOne(){
    let rmOne = atualValue -= 1
-   res.value =
+   res.value =rmOne
 }
