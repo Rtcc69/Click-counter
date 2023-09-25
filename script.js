@@ -17,3 +17,4 @@ function rmOne(){
 function clearCounter(){
    res.value = 0
 }
+   

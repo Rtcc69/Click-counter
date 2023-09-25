@@ -1,40 +1,46 @@
-body{
-    background: blueviolet;
+body {
+  background: blueviolet;
 }
 
 header {
-    font:Normal 18pt Arial ;
-    text-align: center;
-    color: white;
-}w
+  font: Normal 18pt Arial;
+  text-align: center;
+  color: white;
+}
 
 h2 {
-    color: rgba(255, 255, 0, 0.597);
-    margin-top: 0;
+  color: rgba(255, 255, 0, 0.597);
+  margin-top: 0;
 }
 
-section{
-text-align: center;
-
+section {
+  text-align: center;
 }
-#res{
-    text-align: center;
-   height:40px;
-   font: Normal 19pt arial;
-   width: 170px;
-   border-radius: 20px;
-}
-
-.bt{
-    font: normal 12pt arial;
-    border-radius: 2px;
-    margin-top: 10px;
+#res {
+  text-align: center;
+  height: 40px;
+  font: Normal 19pt arial;
+  width: 170px;
+  border-radius: 20px;
+  border: none;
 }
 
-#clear{
-    background: rgba(248, 4, 4, 0.746);
-    border-radius: 4px;
-    width: 120px;
-    padding:4px;
-    margin-top:8px;
+.bt {
+  font: normal 12pt arial;
+  border-radius: 2px;
+  margin-top: 10px;
+  border: none;
+}
+
+#clear {
+  background: rgba(248, 4, 4, 0.746);
+  border-radius: 4px;
+  width: 120px;
+  padding: 4px;
+  margin-top: 8px;
+  border: none;
+}
+
+#clear:hover {
+    background: red;
 }
